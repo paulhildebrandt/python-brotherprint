@@ -8,7 +8,7 @@ for you.
 '''
 
 
-class BrotherPrint:
+class BrotherPrint(object):
     
     font_types = {'bitmap': 0,
                   'outline': 1}
